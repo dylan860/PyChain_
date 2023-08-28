@@ -1,3 +1,4 @@
+![image](https://github.com/dylan860/PyChain_/assets/127907809/d2ef1f4f-8bbf-4b93-b88f-78516945d37a)
 # PyChain_
 The purpose of this challenge to build a blockchain-based ledger system, complete with a user-friendly web interface. This ledger should allow partner banks to conduct financial transactions (that is, to transfer money between senders and receivers) and to verify the integrity of the data in the ledger.
 # Technologies
