@@ -24,3 +24,10 @@ To run this analysis, simply clone the repository or download the files. Open a 
 
 # Streamlit User Interface
 Utilizing the Streamlit interface, the user is able to enter sender, receiver, and amount details and click on 'Add Block' to create a new block. A block inspector is available on the left-hand side to verify the block has been added or to review all blocks stored in the ledger.
+![image](https://github.com/dylan860/PyChain_/assets/127907809/e67fea96-c504-4e28-a67a-8231f1cc769d)
+The Streamlit interface also allows the user to test the blockchain validation process by clicking on the 'Validate Chain' button. Once doing so, a 'True' response should be returned.
+![image](https://github.com/dylan860/PyChain_/assets/127907809/dcd313bc-e268-4ec0-8c23-96d0afdc62fb)
+
+# License
+MIT
+
