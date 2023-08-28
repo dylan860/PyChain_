@@ -17,7 +17,7 @@ This challenge utilizes Streamlit to create a user-friendly webpage interface fo
 - pip install streamlit
 
 # Usage
-The analysis is hosted on the following GitHub repository at: 
+The analysis is hosted on the following GitHub repository at: https://github.com/dylan860/PyChain_
 
 # Run instructions:
 To run this analysis, simply clone the repository or download the files. Open a terminal instance and navigate to the directory that contains the pychain.py file, and then run the following command:
